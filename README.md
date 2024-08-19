@@ -4,6 +4,14 @@ The codebase has code for building Chatbot using the Streamlit Python library. F
 
 Ollama is a CLI tool that lets us run open-source LLMs on our computers for free.
 
+Get started by installing Ollama, then : 
+
+- Ollama pull llama2
+- install the requirements (streamlit and ollama), better to use a venv
+- finally run 'chatbot.py' 🤖 
+
+Note : you can choose your model llama2(7B) or 13B... according to your laptop performance.
+
 
 
 
