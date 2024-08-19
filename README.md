@@ -7,6 +7,8 @@ Ollama is a CLI tool that lets us run open-source LLMs on our computers for free
 Get started by installing Ollama, then : 
 
 - Ollama pull llama2
+    - Pull: Downloads the model to your local environment.
+    - Run: Executes the model, allowing you to interact with it.
 - install the requirements (streamlit and ollama), better to use a venv
 - finally run 'chatbot.py' 🤖 
 
