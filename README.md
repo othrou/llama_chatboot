@@ -10,7 +10,7 @@ Get started by installing Ollama, then :
     - Pull: Downloads the model to your local environment.
     - Run: Executes the model, allowing you to interact with it.
 - install the requirements (streamlit and ollama), better to use a venv
-- finally run 'chatbot.py' 🤖 
+- finally run in your terminal 🤖 : streamlit run chatbot.py 
 
 Note : you can choose your model llama2(7B) or 13B... according to your laptop performance.
 
